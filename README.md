@@ -1,5 +1,5 @@
-Github | LinkedIn | Resume | Articles | Facebook
-:-: | :-: | :-: | :-: | :-:
+Github | LinkedIn | Facebook
+:-: | :-: | :-:
 [![github](.images/github.png)](https://github.com/kcaparas1630) | [![linkedin](.images/linkedin.png)](https://www.linkedin.com/in/kcaparas1630) | [![facebook](.images/facebook.png)](https://www.facebook.com/Mr.Yosong.Gwapo12)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kcaparas1630&show_icons=true&theme=transparent&hide_border=true&hide=stars)
